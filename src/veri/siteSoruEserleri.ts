@@ -1,0 +1,25 @@
+// Hayırsever (bilgi) soruları yalnızca bu eserlerden sorulur: hepsinin sitede (vakfiye.vercel.app)
+// kendi eser sayfası var, oyuncu cevaptan sonra doğrudan oraya gidebilir.
+export const SITE_SORU_ESERLERI: ReadonlySet<string> = new Set([
+  'habib-i-neccar-camii-ve-kulliyesi-hatay',
+  'hocacihan-sarnici-konya',
+  'kursunlu-han-hatay',
+  'mevlana-turbesi-muze-konya',
+  'sultan-alaeddin-ulu-camii-konya',
+  'sircali-medrese-konya',
+  'abdulmumin-yediler-megaribe-mescidi-ve-mezari-konya',
+  'ali-gav-zaviyesi-mahmudiye-medresesi-konya',
+  'arap-dede-turbesi-konya',
+  'askan-camii-konya',
+  'balikpazari-camii',
+  'beyazid-i-bestami-turbesi-hatay',
+  'buyuk-camii-konya',
+  'debruz-mescidi-hatay',
+  'dogrugoz-beldesi-merkez-camii-konya',
+  'el-arabi-turbesi-hatay',
+  'sokullu-mehmet-pasa-kulliyesi-hatay',
+  'emir-nurettin-sephevan-kumbeti-konya',
+  '3-mintika-466-parsel-konut-hatay',
+  'hoca-fakih-cesmesi-konya',
+  'burhaneddin-fakih-dede-turbesi-konya',
+])

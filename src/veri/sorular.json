@@ -1,0 +1,2162 @@
+[
+{
+"id": "cagalzade-bedesteni-konya",
+"bilgi": "Ancak yapı mimari özelliklerinden hareketle XVI.-XV. yüzyıla tarihlendirilmektedir.",
+"dogru": "cagalzade-bedesteni-konya",
+"secenekler": [
+{
+"id": "inlice-han-konya",
+"ad": "İnlice Han",
+"il": "konya"
+},
+{
+"id": "vakif-is-hani-vakiflar-bolge-mudurlugu-hizmet-binasi-konya",
+"ad": "Vakıf İş Hanı (Vakıflar Bölge Müdürlüğü Hizmet Binası)",
+"il": "konya"
+},
+{
+"id": "cagalzade-bedesteni-konya",
+"ad": "Cağalzade Bedesteni",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, II. Cilt",
+"sayfa": "277-278"
+},
+{
+"id": "dolap-mektep-mescidi-konya",
+"bilgi": "Mescit, kareye yakın dikdörtgen planlıdır ve üzeri içten düz ahşap tavan, dıştan kırma çatılıdır. Beden duvarları moloz taş ve üzeri sıvalıdır.",
+"dogru": "dolap-mektep-mescidi-konya",
+"secenekler": [
+{
+"id": "dolap-mektep-mescidi-konya",
+"ad": "Dolap Mektep Mescidi",
+"il": "konya"
+},
+{
+"id": "ferruhsah-seyit-mahmut-hayrani-mescidi-konya",
+"ad": "Ferruhşah (Seyit Mahmut Hayrani) Mescidi",
+"il": "konya"
+},
+{
+"id": "kizilca-mescit-konya",
+"ad": "Kızılca Mescit",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "261"
+},
+{
+"id": "emir-nurettin-sephevan-kumbeti-konya",
+"bilgi": "Türbe, kimliği tam olarak tespit edilemeyen Celal oğlu İbrahim Nureddin tarafından yaptırılmıştır.",
+"dogru": "emir-nurettin-sephevan-kumbeti-konya",
+"secenekler": [
+{
+"id": "seyh-hasan-mekzun-el-sincari-makami-hatay",
+"ad": "Şeyh Hasan Mekzun El Sincari Makamı",
+"il": "hatay"
+},
+{
+"id": "emir-nurettin-sephevan-kumbeti-konya",
+"ad": "Emir Nurettin (Sephevan) Kümbeti",
+"il": "konya"
+},
+{
+"id": "seyh-hasan-gatelli-turbesi-hatay",
+"ad": "Şeyh Hasan Gatelli Türbesi",
+"il": "hatay"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, II. Cilt",
+"sayfa": "147"
+},
+{
+"id": "habib-i-neccar-camii-ve-kulliyesi-hatay",
+"bilgi": "Bir rivayete göre, Müslümanlığın Anadolu’da yayılmaya başladığı yer Antakya’dır ve yine Anadolu’da ilk inşa edilen cami de Antakya’da bulunur.",
+"dogru": "habib-i-neccar-camii-ve-kulliyesi-hatay",
+"secenekler": [
+{
+"id": "habib-i-neccar-camii-ve-kulliyesi-hatay",
+"ad": "Habib-i Neccar Camii ve Külliyesi",
+"il": "hatay"
+},
+{
+"id": "emir-sultan-kulliyesi",
+"ad": "Emir Sultan Külliyesi",
+"il": "bursa"
+},
+{
+"id": "esrefoglu-suleyman-bey-kulliyesi-konya",
+"ad": "Eşrefoğlu Süleyman Bey Külliyesi",
+"il": "konya"
+}
+],
+"kaynak": "Hatay İli Vakıf Eserleri",
+"sayfa": "55-72"
+},
+{
+"id": "hoca-fakih-cesmesi-konya",
+"bilgi": "Zaman içerisinde manzume olarak tamamlanan yapılar grubunun bir elemanı olarak inşa edilen çeşme, külliyenin kuzey duvarı üzerinde bulunmaktadır.",
+"dogru": "hoca-fakih-cesmesi-konya",
+"secenekler": [
+{
+"id": "karakayis-sari-cami-cesmesi-konya",
+"ad": "Karakayış Sarı Cami Çeşmesi",
+"il": "konya"
+},
+{
+"id": "haci-veyis-cesmesi-konya",
+"ad": "Hacı Veyis Çeşmesi",
+"il": "konya"
+},
+{
+"id": "hoca-fakih-cesmesi-konya",
+"ad": "Hoca Fakih Çeşmesi",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, II. Cilt",
+"sayfa": "232"
+},
+{
+"id": "hocacihan-sarnici-konya",
+"bilgi": "Yaz aylarında ırmak suyunun kurumasıyla birlikte bölgede çekilen su sıkıntısını gidermek amacıyla bahar aylarında ırmaktan alınan suyla doldurulmaktaydı.",
+"dogru": "hocacihan-sarnici-konya",
+"secenekler": [
+{
+"id": "bagevliya-camii-cesmesi-konya",
+"ad": "Bağevliya Camii Çeşmesi",
+"il": "konya"
+},
+{
+"id": "karakayis-sari-cami-cesmesi-konya",
+"ad": "Karakayış Sarı Cami Çeşmesi",
+"il": "konya"
+},
+{
+"id": "hocacihan-sarnici-konya",
+"ad": "Hocacihan Sarnıcı",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, II. Cilt",
+"sayfa": "239"
+},
+{
+"id": "ince-minareli-medrese-sahip-ata-darulhadis-konya",
+"bilgi": "İnşa kitâbesi bulunmayan medresenin, H. 662 / M. 1264 yılında tanzim edilen vakfiyesinden hareketle, 1261-62 yıllında hizmete açıldığı kabul edilmektedir.",
+"dogru": "ince-minareli-medrese-sahip-ata-darulhadis-konya",
+"secenekler": [
+{
+"id": "ismail-aga-medresesi-tas-medrese-konya",
+"ad": "İsmail Ağa Medresesi (Taş Medrese)",
+"il": "konya"
+},
+{
+"id": "ince-minareli-medrese-sahip-ata-darulhadis-konya",
+"ad": "İnce Minareli Medrese (Sahip Ata Darülhadis)",
+"il": "konya"
+},
+{
+"id": "kemaliye-kucuk-karatay-medresesi-konya",
+"ad": "Kemaliye (Küçük Karatay) Medresesi",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, II. Cilt",
+"sayfa": "101-106"
+},
+{
+"id": "kanuni-sultan-suleyman-kervansarayi-hatay",
+"bilgi": "2004 yılında Vakıflar Genel Müdürlüğü tarafından restore edilen kervansaray, yukarıdan tepe ışıklıkları ve duvarlarda üstlük mazgal pencerelerle aydınlatılmıştır.",
+"dogru": "kanuni-sultan-suleyman-kervansarayi-hatay",
+"secenekler": [
+{
+"id": "rustem-pasa-kervansarayi-konya",
+"ad": "Rüstem Paşa Kervansarayı",
+"il": "konya"
+},
+{
+"id": "raziye-hatun-sultan-kervansarayi-konya",
+"ad": "Râziye (Hatun) Sultan Kervansarayı",
+"il": "konya"
+},
+{
+"id": "kanuni-sultan-suleyman-kervansarayi-hatay",
+"ad": "Kanuni Sultan Süleyman Kervansarayı",
+"il": "hatay"
+}
+],
+"kaynak": "Hatay İli Vakıf Eserleri",
+"sayfa": "139-158"
+},
+{
+"id": "karatay-medresesi-konya",
+"bilgi": "Bu çevre Selçuklu çağında, iç kaleye ait Sultan Kapısı ve yakındaki diğer eğitim yapılarıyla birlikte önemli bir merkez-meydan teşkil ediyordu.",
+"dogru": "karatay-medresesi-konya",
+"secenekler": [
+{
+"id": "kemaliye-kucuk-karatay-medresesi-konya",
+"ad": "Kemaliye (Küçük Karatay) Medresesi",
+"il": "konya"
+},
+{
+"id": "karatay-medresesi-konya",
+"ad": "Karatay Medresesi",
+"il": "konya"
+},
+{
+"id": "ismail-aga-medresesi-tas-medrese-konya",
+"ad": "İsmail Ağa Medresesi (Taş Medrese)",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, II. Cilt",
+"sayfa": "87-90"
+},
+{
+"id": "kursunlu-han-hatay",
+"bilgi": "1831-1834 tarihli Şer’i Mahkeme Sicillerine göre hanın bir ara cephanelik olarak kullanılmış olması bu görüşümüzü kuvvetlendirmektedir.",
+"dogru": "kursunlu-han-hatay",
+"secenekler": [
+{
+"id": "raziye-hatun-sultan-kervansarayi-konya",
+"ad": "Râziye (Hatun) Sultan Kervansarayı",
+"il": "konya"
+},
+{
+"id": "rustem-pasa-kervansarayi-konya",
+"ad": "Rüstem Paşa Kervansarayı",
+"il": "konya"
+},
+{
+"id": "kursunlu-han-hatay",
+"ad": "Kurşunlu Han",
+"il": "hatay"
+}
+],
+"kaynak": "Hatay İli Vakıf Eserleri",
+"sayfa": "468-473"
+},
+{
+"id": "mevlana-turbesi-muze-konya",
+"bilgi": "1231 senesinde vefat eden Bahaeddin Veled gül bahçesine yapılan ilk defindir.",
+"dogru": "mevlana-turbesi-muze-konya",
+"secenekler": [
+{
+"id": "sokullu-mehmet-pasa-kulliyesi-hatay",
+"ad": "Sokullu Mehmet Paşa Külliyesi",
+"il": "hatay"
+},
+{
+"id": "esrefoglu-suleyman-bey-kulliyesi-konya",
+"ad": "Eşrefoğlu Süleyman Bey Külliyesi",
+"il": "konya"
+},
+{
+"id": "mevlana-turbesi-muze-konya",
+"ad": "Mevlâna Türbesi (Müze)",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "29-66"
+},
+{
+"id": "reyhanli-yenisehir-degirmeni-hatay",
+"bilgi": "1930 yılı tarihine dayanan kadastral paftadan başka tescilli taşınmaza ait herhangi bir belge ya da dokümana rastlanmamıştır.",
+"dogru": "reyhanli-yenisehir-degirmeni-hatay",
+"secenekler": [
+{
+"id": "kircaoglu-hoyugu-hatay",
+"ad": "Kırcaoğlu Höyüğü",
+"il": "hatay"
+},
+{
+"id": "reyhanli-yenisehir-degirmeni-hatay",
+"ad": "Reyhanlı Yenişehir Değirmeni",
+"il": "hatay"
+},
+{
+"id": "4-mintika-78-parsel-eski-ev-hatay",
+"ad": "4. Mıntıka 78 Parsel Eski Ev",
+"il": "hatay"
+}
+],
+"kaynak": "Hatay İli Vakıf Eserleri",
+"sayfa": "464-465"
+},
+{
+"id": "sahip-ata-sultan-hamami-konya",
+"bilgi": "Ancak eser, külliyenin cami ve türbeye gelir getirmesi için inşa edildiği için 656-678 / 1258-1279-80 yılları arasında inşa edilmiş olmalıdır.",
+"dogru": "sahip-ata-sultan-hamami-konya",
+"secenekler": [
+{
+"id": "sahip-ata-sultan-hamami-konya",
+"ad": "Sahip Ata (Sultan) Hamamı",
+"il": "konya"
+},
+{
+"id": "hatipoglu-hasbeyoglu-hamami-konya",
+"ad": "Hatipoğlu (Hasbeyoğlu) Hamamı",
+"il": "konya"
+},
+{
+"id": "sifa-hamami-konya",
+"ad": "Şifa Hamamı",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, II. Cilt",
+"sayfa": "213-214"
+},
+{
+"id": "sircali-medrese-konya",
+"bilgi": "Selçuklu sülüsüyle hakkedilen yedi satırlık Arapça kitâbede, medresenin yalnız Hanefî mezhebine mensup âlim ve talebeler için vakfedildiği belirtilmektedir.",
+"dogru": "sircali-medrese-konya",
+"secenekler": [
+{
+"id": "karatay-medresesi-konya",
+"ad": "Karatay Medresesi",
+"il": "konya"
+},
+{
+"id": "ali-efendi-darulhuffazi-muallimhane-konya",
+"ad": "Ali Efendi Darülhuffazı (Muallimhâne)",
+"il": "konya"
+},
+{
+"id": "sircali-medrese-konya",
+"ad": "Sırçalı Medrese",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, II. Cilt",
+"sayfa": "75-81"
+},
+{
+"id": "sokullu-mehmet-pasa-kulliyesi-hatay",
+"bilgi": "Bu tür menzil külliyeleri, insanların o zamandaki tüm ihtiyaçlarını karşılayacak şekilde inşa edilmiştir.",
+"dogru": "sokullu-mehmet-pasa-kulliyesi-hatay",
+"secenekler": [
+{
+"id": "ulu-camii-ve-kulliyesi-hatay",
+"ad": "Ulu Camii ve Külliyesi",
+"il": "hatay"
+},
+{
+"id": "sokullu-mehmet-pasa-kulliyesi-hatay",
+"ad": "Sokullu Mehmet Paşa Külliyesi",
+"il": "hatay"
+},
+{
+"id": "meydan-camii-ve-kulliyesi-hatay",
+"ad": "Meydan Camii ve Külliyesi",
+"il": "hatay"
+}
+],
+"kaynak": "Hatay İli Vakıf Eserleri",
+"sayfa": "95-120"
+},
+{
+"id": "sultan-alaeddin-ulu-camii-konya",
+"bilgi": "Doğudan batıya 330 m, kuzeyden güneye 450 m uzunluktadır. 20 m yükseklikte oval bir plan göstermektedir. Etrafını içi su dolu hendek sınırlamaktadır.",
+"dogru": "sultan-alaeddin-ulu-camii-konya",
+"secenekler": [
+{
+"id": "anber-reis-feridiye-camii-konya",
+"ad": "Anber Reis (Feridiye) Camii",
+"il": "konya"
+},
+{
+"id": "veli-semseddin-camii",
+"ad": "Veli Şemseddin (Yahni Kapan) Camii ve Haziresi",
+"il": "bursa"
+},
+{
+"id": "sultan-alaeddin-ulu-camii-konya",
+"ad": "Sultan Alâeddin (Ulu) Camii",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "303-318"
+},
+{
+"id": "zazadin-sadeddin-kopek-hani-konya",
+"bilgi": "Kitâbelerden en erken tarihlisi kapalı avlulu bölüm girişinde H. 633 / M. 1235-36 tarihli olan kitâbedir.",
+"dogru": "zazadin-sadeddin-kopek-hani-konya",
+"secenekler": [
+{
+"id": "kursunlu-han-hatay",
+"ad": "Kurşunlu Han",
+"il": "hatay"
+},
+{
+"id": "zivarik-han-konya",
+"ad": "Zıvarık Han",
+"il": "konya"
+},
+{
+"id": "zazadin-sadeddin-kopek-hani-konya",
+"ad": "Zazadin (Sadeddin Köpek) Hanı",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, II. Cilt",
+"sayfa": "263-266"
+},
+{
+"id": "3-mintika-466-parsel-konut-hatay",
+"bilgi": "Konut, geleneksel Antakya evlerinin iklim koşullarından en üst düzeyde yararlanabilmek amacıyla güneybatı-kuzeydoğu doğrultusunda olup, konutun ve avlunun kapladığı alan 360 m 2 ’dir.",
+"dogru": "3-mintika-466-parsel-konut-hatay",
+"secenekler": [
+{
+"id": "samandag-vakifli-koyu-konut-hatay",
+"ad": "Samandağ Vakıflı Köyü Konut",
+"il": "hatay"
+},
+{
+"id": "kircaoglu-hoyugu-hatay",
+"ad": "Kırcaoğlu Höyüğü",
+"il": "hatay"
+},
+{
+"id": "3-mintika-466-parsel-konut-hatay",
+"ad": "3. Mıntıka 466 Parsel Konut",
+"il": "hatay"
+}
+],
+"kaynak": "Hatay İli Vakıf Eserleri",
+"sayfa": "486-489"
+},
+{
+"id": "4-mintika-78-parsel-eski-ev-hatay",
+"bilgi": "Yapının güneybatı cephesi 40 Yıllık Türk Yurdu Caddesi’ne, güneydoğu cephesi ise Kelebek Sokağı’na bakmaktadır.",
+"dogru": "4-mintika-78-parsel-eski-ev-hatay",
+"secenekler": [
+{
+"id": "reyhanli-yenisehir-degirmeni-hatay",
+"ad": "Reyhanlı Yenişehir Değirmeni",
+"il": "hatay"
+},
+{
+"id": "4-mintika-78-parsel-eski-ev-hatay",
+"ad": "4. Mıntıka 78 Parsel Eski Ev",
+"il": "hatay"
+},
+{
+"id": "3-mintika-466-parsel-konut-hatay",
+"ad": "3. Mıntıka 466 Parsel Konut",
+"il": "hatay"
+}
+],
+"kaynak": "Hatay İli Vakıf Eserleri",
+"sayfa": "484-485"
+},
+{
+"id": "abdulmumin-yediler-megaribe-mescidi-ve-mezari-konya",
+"bilgi": "Külliyenin dükkân, ev, fırın, hamam, tarla, değirmen, su dolabı yerleri, bağ, köy, tuz pazarı ve çiftlikler gibi zengin gelirleri olan birçok vakıf mülkleri vardı.",
+"dogru": "abdulmumin-yediler-megaribe-mescidi-ve-mezari-konya",
+"secenekler": [
+{
+"id": "zevle-sultan-mescidi-konya",
+"ad": "Zevle Sultan Mescidi",
+"il": "konya"
+},
+{
+"id": "sitte-i-banu-mescidi-konya",
+"ad": "Sitte-i Banu Mescidi",
+"il": "konya"
+},
+{
+"id": "abdulmumin-yediler-megaribe-mescidi-ve-mezari-konya",
+"ad": "Abdulmümin (Yediler- Megaribe) Mescidi ve Mezarı",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "119-121"
+},
+{
+"id": "adliye-koyu-camii",
+"bilgi": "Cami dikdörtgen planlı, yığma duvarlı, kırma çatılı ve kiremit örtülü ahşap bir yapıdır.",
+"dogru": "adliye-koyu-camii",
+"secenekler": [
+{
+"id": "senkoy-seyh-ahmet-kuseyri-camii-hatay",
+"ad": "Şenköy Şeyh Ahmet Kuseyri Camii",
+"il": "hatay"
+},
+{
+"id": "adliye-koyu-camii",
+"ad": "Adliye Köyü Camii",
+"il": "bursa"
+},
+{
+"id": "osmaniye-camii-hatay",
+"ad": "Osmaniye Camii",
+"il": "hatay"
+}
+],
+"kaynak": "Bursa Vakıf Eserleri, III. Cilt (Diğer İlçeler)",
+"sayfa": "325"
+},
+{
+"id": "affan-ertugrul-camii-hatay",
+"bilgi": "2008 yılında Hatay Vakıflar Bölge Müdürlüğü tarafından restorasyonu gerçekleştirilmiştir.",
+"dogru": "affan-ertugrul-camii-hatay",
+"secenekler": [
+{
+"id": "affan-ertugrul-camii-hatay",
+"ad": "Affan (Ertuğrul) Camii",
+"il": "hatay"
+},
+{
+"id": "digin-camii-konya",
+"ad": "Diğin Camii",
+"il": "konya"
+},
+{
+"id": "pasa-camii",
+"ad": "Paşa Camii",
+"il": "bursa"
+}
+],
+"kaynak": "Hatay İli Vakıf Eserleri",
+"sayfa": "198-205"
+},
+{
+"id": "agalar-boyaci-ali-mescidi-konya",
+"bilgi": "Mescit üzerindeki Latin harfli kitâbeye göre H. 958 / M. 1551 senesinde Kanuni Sultan Süleyman’ın hükümdarlık yıllarında Aksaraylı, Ali oğlu Hasan tarafından yaptırılmıştır.",
+"dogru": "agalar-boyaci-ali-mescidi-konya",
+"secenekler": [
+{
+"id": "bulgur-dede-mescidi-konya",
+"ad": "Bulgur Dede Mescidi",
+"il": "konya"
+},
+{
+"id": "agalar-boyaci-ali-mescidi-konya",
+"ad": "Ağalar (Boyacı Ali) Mescidi",
+"il": "konya"
+},
+{
+"id": "asagi-mahalle-kiziloren-kandemir-mescidi-konya",
+"ad": "Aşağı Mahalle (Kızılören Kandemir) Mescidi",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "427"
+},
+{
+"id": "agca-mescit-hatay",
+"bilgi": "Yapıda son onarım 2018 yılında Vakıflar Genel Müdürlüğü’nce uygulanmıştır.",
+"dogru": "agca-mescit-hatay",
+"secenekler": [
+{
+"id": "zenburi-mescidi-konya",
+"ad": "Zenburi Mescidi",
+"il": "konya"
+},
+{
+"id": "tahtakale-mescidi-konya",
+"ad": "Tahtakale Mescidi",
+"il": "konya"
+},
+{
+"id": "agca-mescit-hatay",
+"ad": "Ağca Mescit",
+"il": "hatay"
+}
+],
+"kaynak": "Hatay İli Vakıf Eserleri",
+"sayfa": "206-211"
+},
+{
+"id": "ahmediye-camii-hatay",
+"bilgi": "Vakıflar Genel Müdürlüğü tarafından 1997 senesindeki onarımda cami ile birlikte şadırvanın ahşap örtüsü de yenilenmiş, taşlar zımparalanarak temizlenmiştir.",
+"dogru": "ahmediye-camii-hatay",
+"secenekler": [
+{
+"id": "sati-fakih-camii",
+"ad": "Satı Fakih Camii ve Haziresi",
+"il": "bursa"
+},
+{
+"id": "sutcu-camii-konya",
+"ad": "Sütçü Camii",
+"il": "konya"
+},
+{
+"id": "ahmediye-camii-hatay",
+"ad": "Ahmediye Camii",
+"il": "hatay"
+}
+],
+"kaynak": "Hatay İli Vakıf Eserleri",
+"sayfa": "212-217"
+},
+{
+"id": "ak-sazi-bey-camii-konya",
+"bilgi": "Vakıflar Genel Müdürlüğü de 2008 senesinde camide esaslı bir tamirat yapmıştır.",
+"dogru": "ak-sazi-bey-camii-konya",
+"secenekler": [
+{
+"id": "durak-fakih-camii-konya",
+"ad": "Durak Fakih Camii",
+"il": "konya"
+},
+{
+"id": "dogrugoz-beldesi-merkez-camii-konya",
+"ad": "Doğrugöz Beldesi Merkez Camii",
+"il": "konya"
+},
+{
+"id": "ak-sazi-bey-camii-konya",
+"ad": "Ak (Şazi Bey) Camii",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "295"
+},
+{
+"id": "aksinne-kumbetli-gunbentli-mescidi-konya",
+"bilgi": "Kare planlı harimin üzerini tromplara oturan tek kubbe örtmektedir.",
+"dogru": "aksinne-kumbetli-gunbentli-mescidi-konya",
+"secenekler": [
+{
+"id": "yarim-anonim-turbe-konya",
+"ad": "Yarım (Anonim) Türbe",
+"il": "konya"
+},
+{
+"id": "aksinne-kumbetli-gunbentli-mescidi-konya",
+"ad": "Aksinne Kümbetli (Günbentli) Mescidi",
+"il": "konya"
+},
+{
+"id": "kalenderhane-kalender-baba-turbesi-konya",
+"ad": "Kalenderhane (Kalender Baba) Türbesi",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "150-151"
+},
+{
+"id": "akyokus-hoca-cihan-hani-konya",
+"bilgi": "adlı birisinin bu kervansarayı yaptırdığı” kaydı bulunmaktadır.",
+"dogru": "akyokus-hoca-cihan-hani-konya",
+"secenekler": [
+{
+"id": "akyokus-hoca-cihan-hani-konya",
+"ad": "Akyokuş (Hoca Cihan) Hanı",
+"il": "konya"
+},
+{
+"id": "rustem-pasa-kervansarayi-konya",
+"ad": "Rüstem Paşa Kervansarayı",
+"il": "konya"
+},
+{
+"id": "zazadin-sadeddin-kopek-hani-konya",
+"ad": "Zazadin (Sadeddin Köpek) Hanı",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, II. Cilt",
+"sayfa": "245-246"
+},
+{
+"id": "alemdar-camii-konya",
+"bilgi": "İlk inşa tarihi 1909 olan cami orijinal hâliyle günümüze kadar ulaşamamıştır.",
+"dogru": "alemdar-camii-konya",
+"secenekler": [
+{
+"id": "alemdar-camii-konya",
+"ad": "Alemdar Camii",
+"il": "konya"
+},
+{
+"id": "namik-pasa-camii-konya",
+"ad": "Namık Paşa Camii",
+"il": "konya"
+},
+{
+"id": "yukari-cigil-beldesi-merkez-camii-kebir-camii-konya",
+"ad": "Yukarı Çiğil Beldesi Merkez (Camii Kebir) Camii",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "258"
+},
+{
+"id": "ali-cavus-mescidi-hatay",
+"bilgi": "Yapı gayrimuntazam bir avluya ve ahşap düz tavanla örtülmüş yamuk plan üzerine oturtulmuş ibadet mekânına sahiptir.",
+"dogru": "ali-cavus-mescidi-hatay",
+"secenekler": [
+{
+"id": "kurkcu-mescidi-konya",
+"ad": "Kürkçü Mescidi",
+"il": "konya"
+},
+{
+"id": "kucuk-ayasofya-mescidi-konya",
+"ad": "Küçük Ayasofya Mescidi",
+"il": "konya"
+},
+{
+"id": "ali-cavus-mescidi-hatay",
+"ad": "Ali Çavuş Mescidi",
+"il": "hatay"
+}
+],
+"kaynak": "Hatay İli Vakıf Eserleri",
+"sayfa": "194-197"
+},
+{
+"id": "ali-efendi-darulhuffazi-muallimhane-konya",
+"bilgi": "Kenar uzunlukları dışta yaklaşık 10 m olan kare planlı yapı, sekizgen kasnağa oturan kubbeyle örtülüdür.",
+"dogru": "ali-efendi-darulhuffazi-muallimhane-konya",
+"secenekler": [
+{
+"id": "ali-efendi-darulhuffazi-muallimhane-konya",
+"ad": "Ali Efendi Darülhuffazı (Muallimhâne)",
+"il": "konya"
+},
+{
+"id": "karatay-medresesi-konya",
+"ad": "Karatay Medresesi",
+"il": "konya"
+},
+{
+"id": "ismail-aga-medresesi-tas-medrese-konya",
+"ad": "İsmail Ağa Medresesi (Taş Medrese)",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, II. Cilt",
+"sayfa": "93-96"
+},
+{
+"id": "ali-gav-zaviyesi-mahmudiye-medresesi-konya",
+"bilgi": "yerleştirilmiştir. Kuzeybatı köşedeki odada, Kemter Baba’ya ait H. 1261 / M. 1845 tarihli, Bektaşi serpuşlu bir mezar taşı vardır.",
+"dogru": "ali-gav-zaviyesi-mahmudiye-medresesi-konya",
+"secenekler": [
+{
+"id": "ali-efendi-darulhuffazi-muallimhane-konya",
+"ad": "Ali Efendi Darülhuffazı (Muallimhâne)",
+"il": "konya"
+},
+{
+"id": "ali-gav-zaviyesi-mahmudiye-medresesi-konya",
+"ad": "Ali Gav (Zaviyesi) Mahmudiye Medresesi",
+"il": "konya"
+},
+{
+"id": "kemaliye-kucuk-karatay-medresesi-konya",
+"ad": "Kemaliye (Küçük Karatay) Medresesi",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, II. Cilt",
+"sayfa": "97-100"
+},
+{
+"id": "ali-pasa-camii-konya",
+"bilgi": "Cami dıştan derinlemesine dikdörtgen planlıdır ve üzeri kırma çatıyla örtülüdür.",
+"dogru": "ali-pasa-camii-konya",
+"secenekler": [
+{
+"id": "ulu-camii-konya",
+"ad": "Ulu Camii",
+"il": "konya"
+},
+{
+"id": "polatlar-haci-cemal-hatip-camii-konya",
+"ad": "Polatlar (Hacı Cemal-Hatip) Camii",
+"il": "konya"
+},
+{
+"id": "ali-pasa-camii-konya",
+"ad": "Ali Paşa Camii",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "375-376"
+},
+{
+"id": "altinkalem-cevlek-mescidi-konya",
+"bilgi": "Vakıflar Bölge Müdürlüğü tarafından 2018 senesinde de tamir edilmiştir.",
+"dogru": "altinkalem-cevlek-mescidi-konya",
+"secenekler": [
+{
+"id": "ali-cavus-mescidi-hatay",
+"ad": "Ali Çavuş Mescidi",
+"il": "hatay"
+},
+{
+"id": "furgan-dede-mescidi-konya",
+"ad": "Furgan Dede Mescidi",
+"il": "konya"
+},
+{
+"id": "altinkalem-cevlek-mescidi-konya",
+"ad": "Altınkalem (Cevlek) Mescidi",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "324-325"
+},
+{
+"id": "anber-reis-feridiye-camii-konya",
+"bilgi": "Cami, kuzey-güney yönünde uzanan dikdörtgen bir plana sahiptir.",
+"dogru": "anber-reis-feridiye-camii-konya",
+"secenekler": [
+{
+"id": "pinarbasi-camii-konya",
+"ad": "Pınarbaşı Camii",
+"il": "konya"
+},
+{
+"id": "anber-reis-feridiye-camii-konya",
+"ad": "Anber Reis (Feridiye) Camii",
+"il": "konya"
+},
+{
+"id": "tellioglu-sungurbey-camii-konya",
+"ad": "Tellioğlu (Sungurbey) Camii",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "85-88"
+},
+{
+"id": "arap-dede-turbesi-konya",
+"bilgi": "Seyfettin Karasungur’un 1266-1284 seneleri arasında, III. Keyhüsrev döneminde yaşadığı bilinmektedir. Seyfettin Karasungur, Celaleddin Karatay’ın kardeşidir.",
+"dogru": "arap-dede-turbesi-konya",
+"secenekler": [
+{
+"id": "seyit-mahmut-hayrani-turbesi-konya",
+"ad": "Seyit Mahmut Hayrani Türbesi",
+"il": "konya"
+},
+{
+"id": "tacul-vezir-kumbeti-konya",
+"ad": "Tacül Vezir Kümbeti",
+"il": "konya"
+},
+{
+"id": "arap-dede-turbesi-konya",
+"ad": "Arap Dede Türbesi",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, II. Cilt",
+"sayfa": "153-154"
+},
+{
+"id": "asagi-mahalle-kiziloren-kandemir-mescidi-konya",
+"bilgi": "Yapının girişi üzerinde yer alan levhada H.1286 / M. 1869-70 tarihi yer almaktadır. Mescit 2001 senesinde Vakıflar Genel Müdürlüğü tarafından onarılmıştır.",
+"dogru": "asagi-mahalle-kiziloren-kandemir-mescidi-konya",
+"secenekler": [
+{
+"id": "altinkalem-cevlek-mescidi-konya",
+"ad": "Altınkalem (Cevlek) Mescidi",
+"il": "konya"
+},
+{
+"id": "gurb-i-cedidi-kosova-mescidi-konya",
+"ad": "Gurb-i Cedidi (Kosova) Mescidi",
+"il": "konya"
+},
+{
+"id": "asagi-mahalle-kiziloren-kandemir-mescidi-konya",
+"ad": "Aşağı Mahalle (Kızılören Kandemir) Mescidi",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "159"
+},
+{
+"id": "askan-camii-konya",
+"bilgi": "Mahalle sakinleri tarafından ermiş bir kişi olarak kabul edilmiştir.",
+"dogru": "askan-camii-konya",
+"secenekler": [
+{
+"id": "askan-camii-konya",
+"ad": "Aşkan Camii",
+"il": "konya"
+},
+{
+"id": "igdeli-sultan-camii-konya",
+"ad": "İğdeli Sultan Camii",
+"il": "konya"
+},
+{
+"id": "aziziye-camii-konya",
+"ad": "Aziziye Camii",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "91"
+},
+{
+"id": "asmali-hatip-sultan-mescidi-konya",
+"bilgi": "Mescit derinlemesine dikdörtgen planlı ve üzeri kırma çatılıdır.",
+"dogru": "asmali-hatip-sultan-mescidi-konya",
+"secenekler": [
+{
+"id": "asmali-hatip-sultan-mescidi-konya",
+"ad": "Asmalı Hatip Sultan Mescidi",
+"il": "konya"
+},
+{
+"id": "beykonak-dedigi-sultan-mescit-ve-tekkesi-konya",
+"ad": "Beykonak Dediği Sultan Mescit ve Tekkesi",
+"il": "konya"
+},
+{
+"id": "kucuk-ayasofya-mescidi-konya",
+"ad": "Küçük Ayasofya Mescidi",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "250"
+},
+{
+"id": "atesbaz-veli-kumbeti-ve-zaviyesi-konya",
+"bilgi": "Zamanla harap hâle gelen türbenin yerine 1897 yılında, Postnişin Abdülvahit Çelebi tarafından yeni bir zaviye inşa ettirilmiştir.",
+"dogru": "atesbaz-veli-kumbeti-ve-zaviyesi-konya",
+"secenekler": [
+{
+"id": "sut-tekkesi-ferhuniye-mescidi-ve-keykavus-kizi-turbesi-konya",
+"ad": "Süt Tekkesi (Ferhuniye Mescidi) ve Keykavus Kızı Türbesi",
+"il": "konya"
+},
+{
+"id": "atesbaz-veli-kumbeti-ve-zaviyesi-konya",
+"ad": "Ateşbaz Veli Kümbeti ve Zaviyesi",
+"il": "konya"
+},
+{
+"id": "hz-uftade-tekke-camii",
+"ad": "Hz. Üftâde Tekke Camii",
+"il": "bursa"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, II. Cilt",
+"sayfa": "125-128"
+},
+{
+"id": "avdan-beldesi-buyuk-eski-camii-konya",
+"bilgi": "2017 senesinde Vakıflar Genel Müdürlüğü tarafından onarım görmüştür.",
+"dogru": "avdan-beldesi-buyuk-eski-camii-konya",
+"secenekler": [
+{
+"id": "avdan-beldesi-buyuk-eski-camii-konya",
+"ad": "Avdan Beldesi Büyük (Eski) Camii",
+"il": "konya"
+},
+{
+"id": "haci-veyis-camii-ve-cesmesi-konya",
+"ad": "Hacı Veyis Camii ve Çeşmesi",
+"il": "konya"
+},
+{
+"id": "bagevliya-cami-ve-cesmesi-konya",
+"ad": "Bağevliya Cami ve Çeşmesi",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "321"
+},
+{
+"id": "ayanbey-camii-konya",
+"bilgi": "Ayan üyesi Memiş Paşa’nın oğlu Süleyman Bey tarafından XIX. yüzyılın ortalarında yaptırılmıştır.",
+"dogru": "ayanbey-camii-konya",
+"secenekler": [
+{
+"id": "saksaganlar-camii-konya",
+"ad": "Saksağanlar Camii",
+"il": "konya"
+},
+{
+"id": "seyh-ebul-vefa-camii-konya",
+"ad": "Şeyh Ebul Vefa Camii",
+"il": "konya"
+},
+{
+"id": "ayanbey-camii-konya",
+"ad": "Ayanbey Camii",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "90"
+},
+{
+"id": "ayaslar-ulu-yukari-camii-konya",
+"bilgi": "Yapının planı, mimari elemanları ve süsleme özellikleri göz önünde bulundurulduğunda XVIII-XIX. yüzyıllarda yapılmış olduğu anlaşılmaktadır.",
+"dogru": "ayaslar-ulu-yukari-camii-konya",
+"secenekler": [
+{
+"id": "ayaslar-ulu-yukari-camii-konya",
+"ad": "Ayaslar Ulu (Yukarı) Camii",
+"il": "konya"
+},
+{
+"id": "ciftlikozu-beldesi-camii-konya",
+"ad": "Çiftliközü Beldesi Camii",
+"il": "konya"
+},
+{
+"id": "pazar-carsi-camii-konya",
+"ad": "Pazar (Çarşı) Camii",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "415"
+},
+{
+"id": "aziziye-camii-konya",
+"bilgi": "Mevlâna Külliyesi’nin batısında yer alan eser “Şeyh Ahmet Efendi Camii” ve “Yüksek Camii” isimleriyle de anılır. İlk inşa tarihi H.1082-1087 / M.1671–1676 yıllarıdır.",
+"dogru": "aziziye-camii-konya",
+"secenekler": [
+{
+"id": "kadi-izzettin-karpuzoglu-camii-konya",
+"ad": "Kadı İzzettin (Karpuzoğlu) Camii",
+"il": "konya"
+},
+{
+"id": "aziziye-camii-konya",
+"ad": "Aziziye Camii",
+"il": "konya"
+},
+{
+"id": "zengen-beldesi-eski-camii-konya",
+"ad": "Zengen Beldesi Eski Camii",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "281-287"
+},
+{
+"id": "bagevliya-cami-ve-cesmesi-konya",
+"bilgi": "Vakıflar Bölge Müdürlüğü tarafından 2008 senesinde tamir edilmiştir.",
+"dogru": "bagevliya-cami-ve-cesmesi-konya",
+"secenekler": [
+{
+"id": "nuriye-camii-konya",
+"ad": "Nuriye Camii",
+"il": "konya"
+},
+{
+"id": "bagevliya-cami-ve-cesmesi-konya",
+"ad": "Bağevliya Cami ve Çeşmesi",
+"il": "konya"
+},
+{
+"id": "komurculer-camii-konya",
+"ad": "Kömürcüler Camii",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "209-210"
+},
+{
+"id": "bagevliya-camii-cesmesi-konya",
+"bilgi": "Ancak XIX. yüzyıl sonları ya da XX. yüzyıl başlarında inşa edilmiş olması muhtemeldir.",
+"dogru": "bagevliya-camii-cesmesi-konya",
+"secenekler": [
+{
+"id": "hocacihan-sarnici-konya",
+"ad": "Hocacihan Sarnıcı",
+"il": "konya"
+},
+{
+"id": "bagevliya-camii-cesmesi-konya",
+"ad": "Bağevliya Camii Çeşmesi",
+"il": "konya"
+},
+{
+"id": "hoca-fakih-cesmesi-konya",
+"ad": "Hoca Fakih Çeşmesi",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, II. Cilt",
+"sayfa": "235"
+},
+{
+"id": "balikpazari-camii",
+"bilgi": "Şehir merkezindeki yapı kilise olarak inşa edilmiş, daha sonra camiye dönüştürülmüştür.",
+"dogru": "balikpazari-camii",
+"secenekler": [
+{
+"id": "balikpazari-camii",
+"ad": "Balıkpazarı (Yeni) Camii (Panagia Pazariotissa)",
+"il": "bursa"
+},
+{
+"id": "aziziye-camii-konya",
+"ad": "Aziziye Camii",
+"il": "konya"
+},
+{
+"id": "gokyurt-koyu-camii-konya",
+"ad": "Gökyurt Köyü Camii",
+"il": "konya"
+}
+],
+"kaynak": "Bursa Vakıf Eserleri, III. Cilt (Diğer İlçeler)",
+"sayfa": "327"
+},
+{
+"id": "basarakavak-zahide-hatun-camii-konya",
+"bilgi": "Cami dıştan dikdörtgen planlıdır ve kırma çatıyla örtülüdür.",
+"dogru": "basarakavak-zahide-hatun-camii-konya",
+"secenekler": [
+{
+"id": "basarakavak-zahide-hatun-camii-konya",
+"ad": "(Başarakavak) Zahide Hatun Camii",
+"il": "konya"
+},
+{
+"id": "dayhane-camii-ve-mustemilati-konya",
+"ad": "Dayhane Camii ve Müştemilatı",
+"il": "konya"
+},
+{
+"id": "sultan-alaeddin-ulu-camii-konya",
+"ad": "Sultan Alâeddin (Ulu) Camii",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "298"
+},
+{
+"id": "baskoy-ulu-camii-konya",
+"bilgi": "Caminin cephelerinde taş malzeme, aralarda da ahşap hatıllar kullanılmıştır.",
+"dogru": "baskoy-ulu-camii-konya",
+"secenekler": [
+{
+"id": "sadreddin-konevi-camii-konya",
+"ad": "Sadreddin Konevi Camii",
+"il": "konya"
+},
+{
+"id": "baskoy-ulu-camii-konya",
+"ad": "Başköy - Ulu Camii",
+"il": "konya"
+},
+{
+"id": "resadiye-camii-konya",
+"ad": "Reşadiye Camii",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "409-411"
+},
+{
+"id": "bayindir-koyu-camii-konya",
+"bilgi": "Kitâbeye göre caminin H. 767 / M. 1365-66 senesinde inşa edildiği anlaşılmaktadır.",
+"dogru": "bayindir-koyu-camii-konya",
+"secenekler": [
+{
+"id": "yanik-sedirler-kenan-dede-camii-konya",
+"ad": "Yanık (Sedirler - Kenan Dede) Camii",
+"il": "konya"
+},
+{
+"id": "iplikci-ambardar-kerim-aga-camii-konya",
+"ad": "İplikçi (Ambardar Kerim Ağa) Camii",
+"il": "konya"
+},
+{
+"id": "bayindir-koyu-camii-konya",
+"ad": "Bayındır Köyü Camii",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "379-382"
+},
+{
+"id": "besare-bey-mescidi-konya",
+"bilgi": "It is also known as “Ferhuniye Masjid” due to the name of the neighborhood where it is located.",
+"dogru": "besare-bey-mescidi-konya",
+"secenekler": [
+{
+"id": "ickaraarslan-mescidi-konya",
+"ad": "İçkaraarslan Mescidi",
+"il": "konya"
+},
+{
+"id": "hasbey-darul-huffaz-mescidi-konya",
+"ad": "Hasbey (Dar’ül Huffaz) Mescidi",
+"il": "konya"
+},
+{
+"id": "besare-bey-mescidi-konya",
+"ad": "Beşare Bey Mescidi",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "292-294"
+},
+{
+"id": "beyazid-i-bestami-turbesi-hatay",
+"bilgi": "Eski Rumeli Beylerbeyi Mustafa Şevki Paşa (Hatay Devleti’nin ilk ve tek Cumhurbaşkanı Tayfur Sökmen’in babası) 1890 yılında bu türbeyi inşa ettirmiştir.",
+"dogru": "beyazid-i-bestami-turbesi-hatay",
+"secenekler": [
+{
+"id": "aksinne-kumbetli-gunbentli-mescidi-konya",
+"ad": "Aksinne Kümbetli (Günbentli) Mescidi",
+"il": "konya"
+},
+{
+"id": "beyazid-i-bestami-turbesi-hatay",
+"ad": "Beyazid-i Bestami Türbesi",
+"il": "hatay"
+},
+{
+"id": "seyh-hasan-mekzun-el-sincari-makami-hatay",
+"ad": "Şeyh Hasan Mekzun El Sincari Makamı",
+"il": "hatay"
+}
+],
+"kaynak": "Hatay İli Vakıf Eserleri",
+"sayfa": "420-423"
+},
+{
+"id": "beyhekim-mescit-ve-turbesi-konya",
+"bilgi": "Alâeddin Tepesinin batısında, isminin verilmiş olduğu mahallede bulunmaktadır.",
+"dogru": "beyhekim-mescit-ve-turbesi-konya",
+"secenekler": [
+{
+"id": "aksinne-kumbetli-gunbentli-mescidi-konya",
+"ad": "Aksinne Kümbetli (Günbentli) Mescidi",
+"il": "konya"
+},
+{
+"id": "beyhekim-mescit-ve-turbesi-konya",
+"ad": "Beyhekim Mescit ve Türbesi",
+"il": "konya"
+},
+{
+"id": "ii-kilicarslan-kumbeti-kumbet-hane-konya",
+"ad": "II. Kılıçarslan Kümbeti (Kümbet-Hane)",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "301-302"
+},
+{
+"id": "beykonak-dedigi-sultan-mescit-ve-tekkesi-konya",
+"bilgi": "Bölgenin Türkleşmesi ve İslamlaşmasında bu yapının oldukça önemli bir yeri vardır.",
+"dogru": "beykonak-dedigi-sultan-mescit-ve-tekkesi-konya",
+"secenekler": [
+{
+"id": "ekmekkocu-mescidi-konya",
+"ad": "Ekmekkoçu Mescidi",
+"il": "konya"
+},
+{
+"id": "kizilca-mescit-konya",
+"ad": "Kızılca Mescit",
+"il": "konya"
+},
+{
+"id": "beykonak-dedigi-sultan-mescit-ve-tekkesi-konya",
+"ad": "Beykonak Dediği Sultan Mescit ve Tekkesi",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "442-446"
+},
+{
+"id": "bulgur-dede-mescidi-konya",
+"bilgi": "Ancak inşa tekniği, malzeme ve süslemeleri bakımından XIII. yüzyılda, Selçuklu devrinde inşa edildiği anlaşılmaktadır.",
+"dogru": "bulgur-dede-mescidi-konya",
+"secenekler": [
+{
+"id": "karhane-mescidi-hatay",
+"ad": "Karhane Mescidi",
+"il": "hatay"
+},
+{
+"id": "bulgur-dede-mescidi-konya",
+"ad": "Bulgur Dede Mescidi",
+"il": "konya"
+},
+{
+"id": "hunkar-mescidi-hatay",
+"ad": "Hünkar Mescidi",
+"il": "hatay"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "75-78"
+},
+{
+"id": "burhan-dede-camii-konya",
+"bilgi": "Yapının üzerinde yer alan kitâbesinde 1915 senesinde inşa edildiği belirtilmektedir. Ancak bânisi ya da sanatkârları hakkında bilgi veren herhangi bir kaynak bulunamamıştır.",
+"dogru": "burhan-dede-camii-konya",
+"secenekler": [
+{
+"id": "sekercik-camii-hatay",
+"ad": "Şekercik Camii",
+"il": "hatay"
+},
+{
+"id": "nalbantoglu-camii",
+"ad": "Nalbantoğlu Camii",
+"il": "bursa"
+},
+{
+"id": "burhan-dede-camii-konya",
+"ad": "Burhan Dede Camii",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "199"
+},
+{
+"id": "burhaneddin-fakih-dede-turbesi-konya",
+"bilgi": "860 yılı Rebiyülevvel ayının ortalarına rastlayan pazartesi günü ahirete yöneldi” yazmaktadır.",
+"dogru": "burhaneddin-fakih-dede-turbesi-konya",
+"secenekler": [
+{
+"id": "pisili-pir-esat-mescit-ve-turbesi-konya",
+"ad": "Pisili (Pir Esat) Mescit ve Türbesi",
+"il": "konya"
+},
+{
+"id": "burhaneddin-fakih-dede-turbesi-konya",
+"ad": "Burhaneddin Fakih Dede Türbesi",
+"il": "konya"
+},
+{
+"id": "muallimhane-sofuhane-camii-ve-turbesi-konya",
+"ad": "Muallimhane (Sofuhane) Camii ve Türbesi",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, II. Cilt",
+"sayfa": "159-160"
+},
+{
+"id": "buyuk-camii-konya",
+"bilgi": "Tavan göbeği sekiz kollu geometrik, bitkisel bezemelidir ve sekizgenin kolları palmet şeklinde taçlandırılmıştır. Kıble duvarının ortasındaki mihrap 1950 senesinden kalmadır.",
+"dogru": "buyuk-camii-konya",
+"secenekler": [
+{
+"id": "sofular-camii-hatay",
+"ad": "Sofular Camii",
+"il": "hatay"
+},
+{
+"id": "buyuk-camii-konya",
+"ad": "Büyük Camii",
+"il": "konya"
+},
+{
+"id": "uzun-seyh-sih-camii-konya",
+"ad": "Uzun Şeyh (Şıh) Camii",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "322-323"
+},
+{
+"id": "buyukdede-taskilise-camii-konya",
+"bilgi": "Cami 2007 senesinde köylülerin talebi ile Vakıflar Genel Müdürlüğü tarafından restore edilerek tekrar kullanıma açılmıştır.",
+"dogru": "buyukdede-taskilise-camii-konya",
+"secenekler": [
+{
+"id": "buyukdede-taskilise-camii-konya",
+"ad": "Büyükdede (Taşkilise) Camii",
+"il": "konya"
+},
+{
+"id": "meram-kapu-kapi-ihyaiyye-camii-konya",
+"ad": "Meram Kapu (Kapı-İhyaiyye) Camii",
+"il": "konya"
+},
+{
+"id": "ibrahim-bey-carsi-camii-konya",
+"ad": "İbrahim Bey (Çarşı) Camii",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "428-429"
+},
+{
+"id": "buyukkovanagzi-haci-haydar-efendi-camii-konya",
+"bilgi": "Giriş kapısının sağında bulunan Latin harfleri ile yazılmış kitâbesine göre H. 1305 / M. 1889-90 tarihinde yapılmıştır.",
+"dogru": "buyukkovanagzi-haci-haydar-efendi-camii-konya",
+"secenekler": [
+{
+"id": "mustafali-camii-hatay",
+"ad": "Mustafalı Camii",
+"il": "hatay"
+},
+{
+"id": "buyukkovanagzi-haci-haydar-efendi-camii-konya",
+"ad": "Büyükkovanağzı (Hacı Haydar Efendi) Camii",
+"il": "konya"
+},
+{
+"id": "yer-kapi-camii",
+"ad": "Yer Kapı (Kara Ali Paşa - Bab-ı Zemin) Camii",
+"il": "bursa"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "93-94"
+},
+{
+"id": "caferiye-mescid-hatay",
+"bilgi": "Caddeye cephe olan kuzeydoğu tarafında merdiven ve bu duvara bitişik",
+"dogru": "caferiye-mescid-hatay",
+"secenekler": [
+{
+"id": "debruz-mescidi-hatay",
+"ad": "Debruz Mescidi",
+"il": "hatay"
+},
+{
+"id": "caferiye-mescid-hatay",
+"ad": "Caferiye Mescid",
+"il": "hatay"
+},
+{
+"id": "hasbey-darul-huffaz-mescidi-konya",
+"ad": "Hasbey (Dar’ül Huffaz) Mescidi",
+"il": "konya"
+}
+],
+"kaynak": "Hatay İli Vakıf Eserleri",
+"sayfa": "346-349"
+},
+{
+"id": "cataloglu-camii-konya",
+"bilgi": "Ancak giriş kapısı üzerinde Türkçe olarak H. 1181 / M. 1767-68 tarihi yer almaktadır.",
+"dogru": "cataloglu-camii-konya",
+"secenekler": [
+{
+"id": "cataloglu-camii-konya",
+"ad": "Çataloğlu Camii",
+"il": "konya"
+},
+{
+"id": "dayhane-camii-ve-mustemilati-konya",
+"ad": "Dayhane Camii ve Müştemilatı",
+"il": "konya"
+},
+{
+"id": "seker-hoca-camii",
+"ad": "Şeker Hoca Camii",
+"il": "bursa"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "272"
+},
+{
+"id": "cavundur-camii-konya",
+"bilgi": "Sonrasında içten ve dıştan çimentoyla sıvanmış, pencereler de PVC ile değiştirilmiştir.",
+"dogru": "cavundur-camii-konya",
+"secenekler": [
+{
+"id": "hisarlik-beldesi-asarlik-camii-konya",
+"ad": "Hisarlık Beldesi Asarlık Camii",
+"il": "konya"
+},
+{
+"id": "haci-veyis-camii-ve-cesmesi-konya",
+"ad": "Hacı Veyis Camii ve Çeşmesi",
+"il": "konya"
+},
+{
+"id": "cavundur-camii-konya",
+"ad": "Çavundur Camii",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "455-456"
+},
+{
+"id": "cavus-eski-merkez-cami-konya",
+"bilgi": "Cami son olarak Vakıflar Genel Müdürlüğü tarafından 2007- 2008 yıllarında onarılmıştır.",
+"dogru": "cavus-eski-merkez-cami-konya",
+"secenekler": [
+{
+"id": "haci-veyis-camii-ve-cesmesi-konya",
+"ad": "Hacı Veyis Camii ve Çeşmesi",
+"il": "konya"
+},
+{
+"id": "cavus-eski-merkez-cami-konya",
+"ad": "Çavuş (Eski) Merkez Cami",
+"il": "konya"
+},
+{
+"id": "yukari-cigil-beldesi-merkez-camii-kebir-camii-konya",
+"ad": "Yukarı Çiğil Beldesi Merkez (Camii Kebir) Camii",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "437-438"
+},
+{
+"id": "cavusoglu-camii-konya",
+"bilgi": "Cumhuriyetin ilk yıllarında 1940 senesinde inşa edilen yapı 1949 tarihinde ibadete açılmıştır.",
+"dogru": "cavusoglu-camii-konya",
+"secenekler": [
+{
+"id": "yanik-sedirler-kenan-dede-camii-konya",
+"ad": "Yanık (Sedirler - Kenan Dede) Camii",
+"il": "konya"
+},
+{
+"id": "cavusoglu-camii-konya",
+"ad": "Çavuşoğlu Camii",
+"il": "konya"
+},
+{
+"id": "karakayis-sari-camii-konya",
+"ad": "Karakayış Sarı Camii",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "275"
+},
+{
+"id": "cayir-camii-konya",
+"bilgi": "Caminin kuzeyinde yer alan bölüm 1965 senesinde ilave edilerek genişletilmiştir.",
+"dogru": "cayir-camii-konya",
+"secenekler": [
+{
+"id": "avdan-beldesi-buyuk-eski-camii-konya",
+"ad": "Avdan Beldesi Büyük (Eski) Camii",
+"il": "konya"
+},
+{
+"id": "cayir-camii-konya",
+"ad": "Çayır Camii",
+"il": "konya"
+},
+{
+"id": "pazar-carsi-camii-konya",
+"ad": "Pazar (Çarşı) Camii",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "269"
+},
+{
+"id": "cemal-ali-dede-turut-turbesi-konya",
+"bilgi": "Selçuklu döneminin özgün yapı özelliklerini ve Selçuklu üslubunu üzerinde barındıran türbenin XIII. yüzyılın sonlarına doğru yaptırılmış olabileceği tahmin edilmektedir.",
+"dogru": "cemal-ali-dede-turut-turbesi-konya",
+"secenekler": [
+{
+"id": "tahir-ile-zuhre-don-baba-pir-ahi-sultan-mescit-ve-turbesi-konya",
+"ad": "Tahir ile Zühre (Dön Baba-Pir Ahi Sultan) Mescit ve Türbesi",
+"il": "konya"
+},
+{
+"id": "emir-nurettin-sephevan-kumbeti-konya",
+"ad": "Emir Nurettin (Sephevan) Kümbeti",
+"il": "konya"
+},
+{
+"id": "cemal-ali-dede-turut-turbesi-konya",
+"ad": "Cemal Ali Dede (Turut) Türbesi",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, II. Cilt",
+"sayfa": "119-124"
+},
+{
+"id": "cetmi-camii-konya",
+"bilgi": "Arşiv ve kayıtlarda cami ile alakalı olarak H.1300 / M. 1882-83 tarihi yer almaktadır.",
+"dogru": "cetmi-camii-konya",
+"secenekler": [
+{
+"id": "cetmi-camii-konya",
+"ad": "Çetmi Camii",
+"il": "konya"
+},
+{
+"id": "sutcu-camii-konya",
+"ad": "Sütçü Camii",
+"il": "konya"
+},
+{
+"id": "haci-ivaz-camii-konya",
+"ad": "Hacı İvaz Camii",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "464"
+},
+{
+"id": "ciftlikozu-beldesi-camii-konya",
+"bilgi": "Cumhuriyetin ilk yıllarında, 1924 senesinde yapılmış olan cami ahşap direkli ve kırma çatılıdır.",
+"dogru": "ciftlikozu-beldesi-camii-konya",
+"secenekler": [
+{
+"id": "ciftlikozu-beldesi-camii-konya",
+"ad": "Çiftliközü Beldesi Camii",
+"il": "konya"
+},
+{
+"id": "topraklik-hasan-efendi-camii-konya",
+"ad": "Topraklık Hasan Efendi Camii",
+"il": "konya"
+},
+{
+"id": "dogrugoz-beldesi-merkez-camii-konya",
+"ad": "Doğrugöz Beldesi Merkez Camii",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "408"
+},
+{
+"id": "cimilli-sari-mescidi-konya",
+"bilgi": "Mescidin ilk inşâsı ve bânisi hakkında herhangi bir bilgi yoktur.",
+"dogru": "cimilli-sari-mescidi-konya",
+"secenekler": [
+{
+"id": "molla-gurani-mescidi",
+"ad": "Molla Gürani (Yeşil-Güranlı) Mescidi",
+"il": "bursa"
+},
+{
+"id": "tahtakale-mescidi-konya",
+"ad": "Tahtakale Mescidi",
+"il": "konya"
+},
+{
+"id": "cimilli-sari-mescidi-konya",
+"ad": "Cimilli (Sarı) Mescidi",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "239"
+},
+{
+"id": "cinaralti-camii-konya",
+"bilgi": "Cami dıştan dikdörtgen planlıdır ve üzeri kırma çatıyla örtülüdür.",
+"dogru": "cinaralti-camii-konya",
+"secenekler": [
+{
+"id": "karakayis-sari-camii-konya",
+"ad": "Karakayış Sarı Camii",
+"il": "konya"
+},
+{
+"id": "cinaralti-camii-konya",
+"ad": "Çınaraltı Camii",
+"il": "konya"
+},
+{
+"id": "avdan-beldesi-buyuk-eski-camii-konya",
+"ad": "Avdan Beldesi Büyük (Eski) Camii",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "327"
+},
+{
+"id": "civiloglu-camii-konya",
+"bilgi": "Cami, Cumhuriyetin ilk döneminde, 1930 senesinde yapılmıştır.",
+"dogru": "civiloglu-camii-konya",
+"secenekler": [
+{
+"id": "kucuk-alioglu-camii-konya",
+"ad": "Küçük Alioğlu Camii",
+"il": "konya"
+},
+{
+"id": "gedik-ahmet-pasa-camii-konya",
+"ad": "Gedik Ahmet Paşa Camii",
+"il": "konya"
+},
+{
+"id": "civiloglu-camii-konya",
+"ad": "Cıvıloğlu Camii",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "197-198"
+},
+{
+"id": "cukur-camii-konya",
+"bilgi": "Vakıflar Bölge Müdürlüğü tarafından 2013 senesinde tamir edilmiştir.",
+"dogru": "cukur-camii-konya",
+"secenekler": [
+{
+"id": "cukur-camii-konya",
+"ad": "Çukur Camii",
+"il": "konya"
+},
+{
+"id": "yukari-camii-ve-haziresi-saglik-beldesi-konya",
+"ad": "Yukarı Camii ve Haziresi (Sağlık Beldesi)",
+"il": "konya"
+},
+{
+"id": "tatkoy-merkez-camii-konya",
+"ad": "Tatköy Merkez Camii",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "205"
+},
+{
+"id": "cukurkent-koyu-camii-konya",
+"bilgi": "Cami 2003 senesinde Vakıflar Genel Müdürlüğü tarafından tamir edilmiştir.",
+"dogru": "cukurkent-koyu-camii-konya",
+"secenekler": [
+{
+"id": "cukurkent-koyu-camii-konya",
+"ad": "Çukurkent Köyü Camii",
+"il": "konya"
+},
+{
+"id": "orta-camii-konya",
+"ad": "Orta Camii",
+"il": "konya"
+},
+{
+"id": "emirler-camii-hatay",
+"ad": "Emirler Camii",
+"il": "hatay"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "439-440"
+},
+{
+"id": "cuma-orta-camii-konya",
+"bilgi": "Son olarak cami, Vakıflar Genel Müdürlüğü tarafından 2003 senesinde bir onarım geçirmiştir.",
+"dogru": "cuma-orta-camii-konya",
+"secenekler": [
+{
+"id": "cuma-orta-camii-konya",
+"ad": "Cuma (Orta) Camii",
+"il": "konya"
+},
+{
+"id": "sari-yakup-camii-konya",
+"ad": "Sarı Yakup Camii",
+"il": "konya"
+},
+{
+"id": "ak-sazi-bey-camii-konya",
+"ad": "Ak (Şazi Bey) Camii",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "383"
+},
+{
+"id": "dayhane-camii-ve-mustemilati-konya",
+"bilgi": "Yapı 2019 senesinde Vakıflar Genel Müdürlüğü tarafından onarım görmüştür.",
+"dogru": "dayhane-camii-ve-mustemilati-konya",
+"secenekler": [
+{
+"id": "dayhane-camii-ve-mustemilati-konya",
+"ad": "Dayhane Camii ve Müştemilatı",
+"il": "konya"
+},
+{
+"id": "ibrahim-pasa-camii-argithani-konya",
+"ad": "İbrahim Paşa Camii (Argıthanı)",
+"il": "konya"
+},
+{
+"id": "selimiye-camii",
+"ad": "Selimiye Camii",
+"il": "bursa"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "98"
+},
+{
+"id": "debruz-mescidi-hatay",
+"bilgi": "Mescidin hemen yanında 1911 tarihli Hacı Sait Helvacı Çeşmesi bulunmaktadır.",
+"dogru": "debruz-mescidi-hatay",
+"secenekler": [
+{
+"id": "beykonak-dedigi-sultan-mescit-ve-tekkesi-konya",
+"ad": "Beykonak Dediği Sultan Mescit ve Tekkesi",
+"il": "konya"
+},
+{
+"id": "tahtakale-mescidi-konya",
+"ad": "Tahtakale Mescidi",
+"il": "konya"
+},
+{
+"id": "debruz-mescidi-hatay",
+"ad": "Debruz Mescidi",
+"il": "hatay"
+}
+],
+"kaynak": "Hatay İli Vakıf Eserleri",
+"sayfa": "218-221"
+},
+{
+"id": "dedeler-hani-konya",
+"bilgi": "Han giriş açıklığı üstünde bulunan bir taş üzerinde “Maşallah H. 1285” yazısından M.1868-69 senesinde yapılmış olduğu anlaşılmaktadır.",
+"dogru": "dedeler-hani-konya",
+"secenekler": [
+{
+"id": "inlice-han-konya",
+"ad": "İnlice Han",
+"il": "konya"
+},
+{
+"id": "zazadin-sadeddin-kopek-hani-konya",
+"ad": "Zazadin (Sadeddin Köpek) Hanı",
+"il": "konya"
+},
+{
+"id": "dedeler-hani-konya",
+"ad": "Dedeler Hanı",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, II. Cilt",
+"sayfa": "271"
+},
+{
+"id": "degirmenyolu-mescid-okul-hatay",
+"bilgi": "Eser, dikdörtgen plana sahip iki kattan oluşan kâgir bir yapıdır.",
+"dogru": "degirmenyolu-mescid-okul-hatay",
+"secenekler": [
+{
+"id": "tahtali-mescidi-konya",
+"ad": "Tahtalı Mescidi",
+"il": "konya"
+},
+{
+"id": "beykonak-dedigi-sultan-mescit-ve-tekkesi-konya",
+"ad": "Beykonak Dediği Sultan Mescit ve Tekkesi",
+"il": "konya"
+},
+{
+"id": "degirmenyolu-mescid-okul-hatay",
+"ad": "Değirmenyolu Mescid-okul",
+"il": "hatay"
+}
+],
+"kaynak": "Hatay İli Vakıf Eserleri",
+"sayfa": "350-353"
+},
+{
+"id": "deli-osman-hani-konya",
+"bilgi": "Han Vakıflar Genel Müdürlüğü tarafından 2007 senesinde restore edilmiştir. Son hâliyle moloz taştan, araları ahşap hatıllı, üzeri dört yöne eğimli kırma çatılıdır.",
+"dogru": "deli-osman-hani-konya",
+"secenekler": [
+{
+"id": "deli-osman-hani-konya",
+"ad": "Deli Osman Hanı",
+"il": "konya"
+},
+{
+"id": "zivarik-han-konya",
+"ad": "Zıvarık Han",
+"il": "konya"
+},
+{
+"id": "akyokus-hoca-cihan-hani-konya",
+"ad": "Akyokuş (Hoca Cihan) Hanı",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, II. Cilt",
+"sayfa": "243-244"
+},
+{
+"id": "demirli-mescit-konya",
+"bilgi": "1950’li yıllarda harap hâldeki mescit Vakıflar Bölge Müdürlüğü tarafından onarılmıştır ve günümüzde de ibadete açıktır.",
+"dogru": "demirli-mescit-konya",
+"secenekler": [
+{
+"id": "demirli-mescit-konya",
+"ad": "Demirli Mescit",
+"il": "konya"
+},
+{
+"id": "yagmapinar-mescidi-konya",
+"ad": "Yağmapınar Mescidi",
+"il": "konya"
+},
+{
+"id": "abdulmumin-yediler-megaribe-mescidi-ve-mezari-konya",
+"ad": "Abdulmümin (Yediler- Megaribe) Mescidi ve Mezarı",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "384"
+},
+{
+"id": "deveci-bekiroglu-camii-hatay",
+"bilgi": "İplik Pazarı Mahallesi, Gökşen Sokak, 1485 numaralı parsel üzerinde bulunan cami, kesme taştan yapılmıştır.",
+"dogru": "deveci-bekiroglu-camii-hatay",
+"secenekler": [
+{
+"id": "seyh-osman-rumi-camii-konya",
+"ad": "Şeyh Osman Rûmi Camii",
+"il": "konya"
+},
+{
+"id": "pir-huseyin-bey-yukari-camii-konya",
+"ad": "Pir Hüseyin Bey (Yukarı) Camii",
+"il": "konya"
+},
+{
+"id": "deveci-bekiroglu-camii-hatay",
+"ad": "Deveci Bekiroğlu Camii",
+"il": "hatay"
+}
+],
+"kaynak": "Hatay İli Vakıf Eserleri",
+"sayfa": "222-225"
+},
+{
+"id": "digin-camii-konya",
+"bilgi": "Ancak ilk inşa tarihi ya da bânisi hakkında herhangi bir kitâbe veya belge yoktur.",
+"dogru": "digin-camii-konya",
+"secenekler": [
+{
+"id": "cinaralti-camii-konya",
+"ad": "Çınaraltı Camii",
+"il": "konya"
+},
+{
+"id": "haci-veyis-camii-ve-cesmesi-konya",
+"ad": "Hacı Veyis Camii ve Çeşmesi",
+"il": "konya"
+},
+{
+"id": "digin-camii-konya",
+"ad": "Diğin Camii",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "266"
+},
+{
+"id": "dogrugoz-beldesi-merkez-camii-konya",
+"bilgi": "Caminin süslemelerini 1950’li yıllarda Akşehir, Ilgın ve Doğanhisar camilerinin süslemesini de yapan Müslim Gökçek yapmıştır.",
+"dogru": "dogrugoz-beldesi-merkez-camii-konya",
+"secenekler": [
+{
+"id": "veled-i-enbiya-enbiyaoglu-camii",
+"ad": "Veled-i Enbiya (Enbiyaoğlu) Camii",
+"il": "bursa"
+},
+{
+"id": "dogrugoz-beldesi-merkez-camii-konya",
+"ad": "Doğrugöz Beldesi Merkez Camii",
+"il": "konya"
+},
+{
+"id": "yegin-camii-konya",
+"ad": "Yeğin Camii",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "328"
+},
+{
+"id": "dokuzun-derbent-sadiye-igdisleri-hani-konya",
+"bilgi": "Yapı taç kapısında yer alan inşa kitâbesine göre I. Gıyaseddin Keyhüsrev döneminde, 1210 senesinde, Emir Hacı İbrahim bin Ebu Bekir tarafından, Osman bin Abdurrahman’a yaptırılmıştır.",
+"dogru": "dokuzun-derbent-sadiye-igdisleri-hani-konya",
+"secenekler": [
+{
+"id": "zivarik-han-konya",
+"ad": "Zıvarık Han",
+"il": "konya"
+},
+{
+"id": "dokuzun-derbent-sadiye-igdisleri-hani-konya",
+"ad": "Dokuzun (Derbent-Şadiye-İğdişleri) Hanı",
+"il": "konya"
+},
+{
+"id": "cagalzade-bedesteni-konya",
+"ad": "Cağalzade Bedesteni",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, II. Cilt",
+"sayfa": "261-262"
+},
+{
+"id": "dolap-battal-mescidi-konya",
+"bilgi": "Yapı, Vakıflar Bölge Müdürlüğü tarafından 2015-2016 senesinde tamir ettirilmiştir.",
+"dogru": "dolap-battal-mescidi-konya",
+"secenekler": [
+{
+"id": "dolap-battal-mescidi-konya",
+"ad": "Dolap Battal Mescidi",
+"il": "konya"
+},
+{
+"id": "furgan-dede-mescidi-konya",
+"ad": "Furgan Dede Mescidi",
+"il": "konya"
+},
+{
+"id": "hasbey-darul-huffaz-mescidi-konya",
+"ad": "Hasbey (Dar’ül Huffaz) Mescidi",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "186"
+},
+{
+"id": "durak-fakih-camii-konya",
+"bilgi": "Caminin girişi üzerinde H. 650 / M. 1252-53 tarihleri bulunmaktadır.",
+"dogru": "durak-fakih-camii-konya",
+"secenekler": [
+{
+"id": "veled-i-yanic-camii",
+"ad": "Veled-i Yaniç Camii, Çeşme ve Haziresi",
+"il": "bursa"
+},
+{
+"id": "durak-fakih-camii-konya",
+"ad": "Durak Fakih Camii",
+"il": "konya"
+},
+{
+"id": "kabacali-camii-konya",
+"ad": "Kabacalı Camii",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "204"
+},
+{
+"id": "ebul-futtuh-camii-hatay",
+"bilgi": "Vakıflar Bölge Müdürlüğü tarafından 2008’de tamir edilmiştir.",
+"dogru": "ebul-futtuh-camii-hatay",
+"secenekler": [
+{
+"id": "ebul-futtuh-camii-hatay",
+"ad": "Ebul Futtuh Camii",
+"il": "hatay"
+},
+{
+"id": "mahremiye-camii-hatay",
+"ad": "Mahremiye Camii",
+"il": "hatay"
+},
+{
+"id": "kiremitli-camii-hatay",
+"ad": "Kiremitli Camii",
+"il": "hatay"
+}
+],
+"kaynak": "Hatay İli Vakıf Eserleri",
+"sayfa": "374-377"
+},
+{
+"id": "ekmekkocu-mescidi-konya",
+"bilgi": "Mescidin banisiyle de ilgili herhangi bir bilgiye rastlanmamıştır.",
+"dogru": "ekmekkocu-mescidi-konya",
+"secenekler": [
+{
+"id": "cimilli-sari-mescidi-konya",
+"ad": "Cimilli (Sarı) Mescidi",
+"il": "konya"
+},
+{
+"id": "ekmekkocu-mescidi-konya",
+"ad": "Ekmekkoçu Mescidi",
+"il": "konya"
+},
+{
+"id": "sukran-mescidi-konya",
+"ad": "Şükran Mescidi",
+"il": "konya"
+}
+],
+"kaynak": "Konya Vakıf Eserleri Envanteri, I. Cilt",
+"sayfa": "92"
+},
+{
+"id": "el-arabi-turbesi-hatay",
+"bilgi": "Türbenin çevresinde, ibadet ve toplantı mekânı olarak kullanılan bir yapı ile kesim ve pişirme yerleri gibi çeşitli mimarî yapılar bulunur.",
+"dogru": "el-arabi-turbesi-hatay",
+"secenekler": [
+{
+"id": "cemal-ali-dede-turut-turbesi-konya",
+"ad": "Cemal Ali Dede (Turut) Türbesi",
+"il": "konya"
+},
+{
+"id": "el-arabi-turbesi-hatay",
+"ad": "El Arabi Türbesi",
+"il": "hatay"
+},
+{
+"id": "tahir-ile-zuhre-don-baba-pir-ahi-sultan-mescit-ve-turbesi-konya",
+"ad": "Tahir ile Zühre (Dön Baba-Pir Ahi Sultan) Mescit ve Türbesi",
+"il": "konya"
+}
+],
+"kaynak": "Hatay İli Vakıf Eserleri",
+"sayfa": "412-413"
+}
+]
